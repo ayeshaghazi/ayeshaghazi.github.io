@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "ayesha a"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "dreamer and doer. books, data, tea, cats."
+  bio    : "books, data, tea, cats."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
