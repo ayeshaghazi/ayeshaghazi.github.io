@@ -65,7 +65,7 @@ author:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
-    - label: "Twitter"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AyeshaGhazi_"
     - label: "GitHub"
@@ -77,7 +77,7 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
